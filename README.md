@@ -16,12 +16,14 @@ abandono com pessoas (ou heróis, como tratadas no app) que gostariam de ajudar 
 *********************************
 
 <div id='install'/> 
+
 ## Instalação
 > É necessário ter o NodeJS instalado na máquina. Caso ainda não possua, baixe e instale através do [site oficial](https://nodejs.org/en/)
 
 Todos os procedimentos são iguais para OS X, Linux ou Windows:
 
 <div id='backend'/> 
+
 ### Backend
 
 Pelo prompt de comando ou terminal, navegue até a pasta do backend e execute:
@@ -39,6 +41,7 @@ npx knex migrate:latest
 Depois basta executar o comando ```npm start``` para que o servidor comece a rodar.
 
 <div id='frontend'/> 
+
 ### Frontend
 
 Pelo prompt de comando ou terminal, navegue até a pasta do front e execute:
@@ -66,7 +69,8 @@ várias opções disponíveis para executar o app. Caso tenha o Expo instalado e
 basta ler o QRCode disponível nada tela. 
 
 <div id='screenshots'/> 
-## Web
+
+#### Web
 
 ![Página de login](https://user-images.githubusercontent.com/12853061/84603954-082a2400-ae69-11ea-930f-aab8ca4ca6d8.PNG)
 ![Página de registro da ONG](https://user-images.githubusercontent.com/12853061/84603965-26901f80-ae69-11ea-8152-c644b9e0ba14.PNG)
