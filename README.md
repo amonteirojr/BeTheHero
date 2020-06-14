@@ -1,7 +1,7 @@
 <img src="frontend/src/assets/logo.svg">
 
 # Be The Hero
-> Aplicação completa desenvolvida durante o curso de uma das Semanas Omnistack promovidas pela RocketSeat.
+> Aplicação completa desenvolvida para estudo durante o curso de uma das Semanas Omnistack promovidas pela RocketSeat.
 
 A aplicação tem como objetivo auxiliar e facilitar o contato das ONG's responsáveis por cuidar de animais em situação de 
 abandono com pessoas (ou heróis, como tratadas no app) que gostariam de ajudar financeiramente essas ONG's.
