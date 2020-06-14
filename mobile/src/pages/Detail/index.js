@@ -1,7 +1,14 @@
 import React from "react";
 import { Feather } from "@expo/vector-icons";
 import { useNavigation, useRoute } from "@react-navigation/native";
-import { View, Image, TouchableOpacity, Text, Linking } from "react-native";
+import {
+  View,
+  Image,
+  TouchableOpacity,
+  Text,
+  Linking,
+  StatusBar,
+} from "react-native";
 
 import logoImg from "../../assets/logo.png";
 
@@ -43,6 +50,7 @@ export default function Detail() {
 
   return (
     <View style={styles.container}>
+      <StatusBar barStyle="dark-content" backgroundColor="#e02041" />
       <View style={styles.header}>
         <Image source={logoImg} />
 
