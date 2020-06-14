@@ -75,13 +75,13 @@ basta ler o QRCode disponível nada tela.
 
 #### Web
 
-<img src="/screenshots/web/MainPage.PNG" width="600"/>
+<img src="/screenshots/web/MainPage.PNG" width="800"/>
 
-<img src="/screenshots/web/RegisterPage.PNG" />
+<img src="/screenshots/web/RegisterPage.PNG" width="800"/>
 
-<img src="/screenshots/web/OngPage.PNG" />
+<img src="/screenshots/web/OngPage.PNG" width="800"/>
 
-<img src="/screenshots/web/NewIncidentPage.PNG" />
+<img src="/screenshots/web/NewIncidentPage.PNG" width="800"/>
 
 
 
