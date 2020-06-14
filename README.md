@@ -4,11 +4,13 @@
 A aplicação tem como objetivo auxiliar e facilitar o contato das ONG's responsáveis por cuidar de animais em situação de 
 abandono com pessoas (ou heróis, como tratadas no app) que gostariam de ajudar financeiramente essas ONG's.
 
-Índice
+*********************************
+#### Índice
 1. [Instalação](#install)
-  1.1. [Backend](#backend)
-  1.2. [Frontend](#frontend)
-  1.3. [Mobile](#mobile)
+    1.1. [Backend](#backend)  
+    1.2. [Frontend](#frontend)  
+    1.3. [Mobile](#mobile)
+  
 2. [Screenshots](#screenshots)
 
 *********************************
@@ -65,6 +67,7 @@ basta ler o QRCode disponível nada tela.
 
 <div id='screenshots'/> 
 ## Web
+
 ![Página de login](https://user-images.githubusercontent.com/12853061/84603954-082a2400-ae69-11ea-930f-aab8ca4ca6d8.PNG)
 ![Página de registro da ONG](https://user-images.githubusercontent.com/12853061/84603965-26901f80-ae69-11ea-8152-c644b9e0ba14.PNG)
 ![Página inicial](https://user-images.githubusercontent.com/12853061/84603985-3ad41c80-ae69-11ea-91b8-98d89c3f2074.PNG)
